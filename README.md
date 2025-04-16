@@ -4,6 +4,7 @@
 
 - [Elementos HTML - 02](elementos-html-02) - tabela, mídia
 - [Elementos HTML - 03](elementos-html-03) - formulário
+- [Introdução ao CSS](css-01) 
 
 #
 
