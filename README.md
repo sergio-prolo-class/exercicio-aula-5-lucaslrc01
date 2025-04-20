@@ -2,9 +2,9 @@
 
 > Repositório com os exercícios da disciplina de Front End 1 do curso de Análise e Desenvolvimento de Sistemas do IFSC, câmpus São José.
 
-- [Elementos HTML - 02](elementos-html-02) - tabela, mídia
-- [Elementos HTML - 03](elementos-html-03) - formulário
-- [Introdução ao CSS](css-01) 
+- [Elementos HTML - 02](html/elementos-html-02) - tabela, mídia
+- [Elementos HTML - 03](html/elementos-html-03) - formulário
+- [Introdução ao CSS](css) 
 
 #
 

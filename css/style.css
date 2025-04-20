@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(41, 37, 51);
+    font-family: 'Inter', sans-serif;
+    color: white;
+    line-height: 1.6;
+}
+
+hr {
+    margin-left: 3.5%;
+    margin-top: 20px;
+    background-color: rgb(89, 141, 138);
+    border: none;
+    height: 3px;
+    width: 90%;
+}
+
+/* nav */
+nav {
+    background-color: rgb(34, 34, 81);
+    display: flex;
+    align-items: center;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+nav p {
+    margin-left: 30px;
+
+}
+nav a {
+    margin-top: 0.5%;
+    margin-left: 0.8%;
+    margin-right: 65%;
+    text-decoration: none;
+    color: white;
+}
+
+/* header */
+header {
+    margin-right: 3%;
+    margin-left: 3.5%;
+    margin-top: 15px;
+    padding-left: 5px;
+    padding-top: 5px;
+    display: flex; 
+    align-items: flex-start; 
+    gap: 20px;
+}
+
+/* blocosSkills */
+.blocos {
+    display: flex; 
+    align-items: flex-start; 
+    gap: 20px;
+}
+
+.blocosSkills *, .blocosSkills {
+    box-sizing: border-box;
+}
+
+.blocosSkills {
+    margin-top: 20px;
+    border-radius: 10px;
+
+    padding-bottom: 2px;
+    max-width: 10%;
+    max-height: 15%;
+    min-width: 10%;
+    min-height: 15%;
+    background-color: rgb(55, 55, 55);
+}
+
+.blocosSkills h2 {
+    display: block;
+    font-size: medium;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin: 0;
+    padding: 5px;
+    color: white;
+}
+
+.blocosSkills, .blocosSkills h2, .blocosSkills img {
+    width: 100%;
+}
+
+.blocosSkills img {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/* habilidades */
+.listas {
+    display: flex; 
+    align-items: flex-start; 
+    gap: 20px;
+    margin-left: 3.5%;
+    margin-top: 3%;
+}
+
+.listas h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.listas ol, ul {
+    margin-left: 3%;
+}
+
+/* habilidades */
+.habilidades {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(55, 55, 55);
+    border-radius: 5px;
+}
+
+/* lista professores */
+.professores {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(55, 55, 55);
+    margin-left: 3.5%;
+    border-radius: 5px;
+}
+
+.professores dt {
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.professores dd {
+    margin-left: 3%;
+}
+
+.professores a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* tabela*/
+.tabela{
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(55, 55, 55);
+    margin-top: 5%;
+    margin-left: 3.5%;
+    margin-right: 29.6%;
+}
+
+.tabela h3, h4 {
+    margin-top: 2%;
+}
+
+table {
+    text-align: center;
+}
+
+
+
+
